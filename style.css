@@ -1,0 +1,61 @@
+
+.container{
+    display: flex;
+    background-color:	#28A7FF;
+    justify-content: space-between;
+    height: 90px;
+    
+}
+
+.navbar{
+    display: flex;
+    justify-content: right;
+    list-style: none;
+    
+    
+}
+
+.search{
+
+    display: flex;
+    padding: 25px;
+    border: 1px solid white;
+    border: hidden;
+    height: 52px;
+    
+}
+
+
+.login{
+    display: flex;
+    border: 1px solid white;
+    background-color: white;
+    color: #28A7FF;
+    margin: 22px;
+    padding: 11px;
+    border-radius: 5px; 
+  
+}
+
+.Register{
+    display: flex;
+    border: 1px solid white;
+    border-radius: 5px;
+    color: white;
+    margin: 22px;
+    padding: 11px;
+}
+
+.img{
+    display: flex;
+    border: 1px solid black;
+    border: hidden;
+    justify-content: space-evenly;
+    line-height: 1px;
+
+}
+
+
+
+
+
